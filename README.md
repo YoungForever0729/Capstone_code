@@ -1,3 +1,2 @@
 # gittest
-学习GitHub用法
-123456
+Implementation of Simple Federated Learning Algorithm
