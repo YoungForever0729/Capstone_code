@@ -1,2 +1,2 @@
 # gittest
-Implementation of Simple Federated Learning Algorithm
+Implementation of Simple Federated Learning Algorithm Using Pytorch
